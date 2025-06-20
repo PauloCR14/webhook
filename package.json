@@ -1,0 +1,17 @@
+{
+  "name": "weebhook",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "nodemon index"
+  },
+  "author": "Paulo Cesar Ramirez Ramirez",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^5.1.0",
+    "mongodb": "^6.17.0",
+    "nodemon": "^3.1.10"
+  },
+  "devDependencies": {},
+  "description": ""
+}
